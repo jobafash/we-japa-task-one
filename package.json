@@ -1,0 +1,11 @@
+{
+  "name": "task_one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Oluwajoba Fashogbon",
+  "license": "ISC"
+}
